@@ -1,6 +1,6 @@
 import pytest
 
-from mst_system import mst, kruskal, prim, MSTWeight, MSTEdges
+from main import mst, kruskal, prim, MSTWeight, MSTEdges
 
 
 @pytest.fixture
